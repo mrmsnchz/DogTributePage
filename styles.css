@@ -1,0 +1,85 @@
+
+body {
+  font-family: helvetica, futura;
+  text-align: left;
+  color: #4a4944;
+  margin: 0px;
+  background-image: url("https://www.kindpng.com/picc/m/118-1186555_dog-paw-background-png-png-download-dog-paw.png");
+}
+
+main {
+  margin: 50px 50px;
+  padding: 20px;  
+  border-radius: 10px;
+  background-color: #e8ebe3;
+}
+
+
+ h1 {
+  color: #796769;
+  text-align: center;
+  text-shadow: 0.7px 0.7px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+h3 {
+  color: #595759;
+  text-align: left;
+  text-shadow: 0.4px 0.3px;
+}
+
+p {
+  color: black;
+  font-size: 1.2rem;
+}
+
+figure {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+
+#img-div {
+  display: block;
+  margin: auto;
+  padding: auto;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border: 2px solid #696769;
+  border-radius: 70%;
+  padding: 0.5px;
+}
+
+#img-caption {
+  font-size: 1rem;
+  font-style: italic;
+  text-align: center;
+  margin: 10px 5px 5px 20px;
+}
+
+figcaption {
+  margin: auto;
+}
+
+a,
+a:visited {
+  color: #896769;
+}
+
+a:hover {
+  color: maroon;
+}
+
+#quote {
+  text-align: left;
+  font-style: italic;
+  text-shadow: 0.1px 0.1px;
+}
