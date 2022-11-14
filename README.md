@@ -1,5 +1,5 @@
 # DogTributePage
-One of the first basic HTML projects i made.
+One of the first basic HTML projects.
 
 https://codepen.io/MiriamSanchez/full/eYRdxRd
 
